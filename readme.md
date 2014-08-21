@@ -1,0 +1,2 @@
+#Wordpress Skeleton
+This is a simple framework that I use to build a wordpress project. To use it, simply download or fork this repository and run the `composer install`. in this skeleton, wordpress will be stored in the directory called `wp`, but the folder `wp-content` folder is replaced by folder called `content`.
