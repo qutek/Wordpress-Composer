@@ -1,0 +1,14 @@
+## Ignore ##
+vendor/
+wp/
+content/upgrade/
+content/backup-db/
+content/advanced-cache.php
+content/wp-cache-config.php
+sitemap.xml
+*.log
+*.sql
+wp-content/cache/
+wp-content/backups/
+sitemap.xml.gz
+wp-config.php
